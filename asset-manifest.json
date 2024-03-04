@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/misuPortfolio/static/css/main.6d6bee20.css",
+    "main.js": "/misuPortfolio/static/js/main.6691357a.js",
+    "static/media/HeroImage.jpg": "/misuPortfolio/static/media/HeroImage.3a450ad3c8626b7aa861.jpg",
+    "index.html": "/misuPortfolio/index.html",
+    "main.6d6bee20.css.map": "/misuPortfolio/static/css/main.6d6bee20.css.map",
+    "main.6691357a.js.map": "/misuPortfolio/static/js/main.6691357a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d6bee20.css",
+    "static/js/main.6691357a.js"
+  ]
+}
